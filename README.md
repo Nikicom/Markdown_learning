@@ -2,3 +2,6 @@
 ### learning
 - [x] i woke up
 - [ ] i am sleeping
+
+* list 1
+* list 2
